@@ -4,7 +4,7 @@
 
 ## Extensions
 
-[VRNBLTY](https://github.com/pacholoamit/VRNBLTY) - A browser extension that allows you to check the current website you are in to see if previous data breaches have occurred. The extension is powered by the haveibeenpwned api
+[VRNBLTY](https://github.com/pacholoamit/VRNBLTY) - Checks the current website you are in to see if previous data breaches have occurred. The extension is powered by the [haveibeenpwned](https://haveibeenpwned.com/) API.
 
 ## Articles
 
